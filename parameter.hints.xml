@@ -1,0 +1,9 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="PHP" />
+    </blacklists>
+    <showIfParamNameContained value="true" />
+    <showWhenMultipleParamsWithSameType value="false" />
+  </component>
+</application>
