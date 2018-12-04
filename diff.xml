@@ -1,10 +1,18 @@
 <application>
   <component name="TextDiffSettings">
     <option name="PLACES_MAP">
-      <entry key="Default">
+      <entry key="ChangesView">
         <PlaceSettings>
-          <option name="SHOW_WHITESPACES" value="true" />
+          <option name="EXPAND_BY_DEFAULT" value="false" />
         </PlaceSettings>
+      </entry>
+      <entry key="CommitDialog">
+        <PlaceSettings>
+          <option name="EXPAND_BY_DEFAULT" value="false" />
+        </PlaceSettings>
+      </entry>
+      <entry key="Default">
+        <PlaceSettings />
       </entry>
     </option>
   </component>
