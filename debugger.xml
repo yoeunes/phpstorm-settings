@@ -1,7 +1,13 @@
 <application>
   <component name="XDebuggerSettings">
-    <data-views />
-    <general />
+    <data-views>
+      <option name="autoExpressions" value="false" />
+      <option name="showValuesInline" value="false" />
+      <show-values-inline>false</show-values-inline>
+    </data-views>
+    <general>
+      <option name="showDebuggerOnBreakpoint" value="false" />
+    </general>
     <debuggers>
       <debugger id="javascript">
         <configuration>
