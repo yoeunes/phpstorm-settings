@@ -91,6 +91,9 @@
     <keyboard-shortcut first-keystroke="ctrl w" />
     <keyboard-shortcut first-keystroke="meta w" />
   </action>
+  <action id="ExportSettings">
+    <keyboard-shortcut first-keystroke="meta u" />
+  </action>
   <action id="ExpressionTypeInfo" />
   <action id="FileChooser.NewFolder">
     <keyboard-shortcut first-keystroke="alt insert" />
@@ -193,6 +196,7 @@
   <action id="SwitchRight">
     <keyboard-shortcut first-keystroke="shift alt right" />
   </action>
+  <action id="Uml.ExpandNodes" />
   <action id="Vcs.ShowMessageHistory">
     <keyboard-shortcut first-keystroke="ctrl e" />
   </action>
