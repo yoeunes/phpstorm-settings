@@ -6,6 +6,7 @@
       <mapping pattern="ddza" type="PLAIN_TEXT" />
       <mapping pattern="za" type="PLAIN_TEXT" />
       <mapping pattern=".env.dusk.local" type="PLAIN_TEXT" />
+      <mapping pattern="t" type="PLAIN_TEXT" />
       <mapping pattern=".env.prod" type="PLAIN_TEXT" />
       <mapping pattern=".env.testing" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
